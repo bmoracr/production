@@ -1,0 +1,19 @@
+{
+    "name": "byapp/byapp",
+    "description": "PHP FrameWork",
+    "type": "project",
+    "license": "All rights reserve to MarketsbyApp",
+    "authors": [
+        {
+            "name": "Marketsbyapp",
+            "email": "ceo@marketsbypp.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "dompdf/dompdf": "^1.0",
+        "windwalker/edge": "^3.5",
+        "symfony/dotenv": "^5.3",
+        "cboden/ratchet": "^0.4.3"
+    }
+}
